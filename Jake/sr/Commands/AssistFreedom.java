@@ -5,7 +5,7 @@ import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
-//upated by looperXD
+
 @CommandPermissions(level = AdminLevel.ALL, source = SourceType.BOTH)
 @CommandParameters(
         description = "The Developers of AssistFreedom.",
